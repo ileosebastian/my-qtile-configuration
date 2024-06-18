@@ -1,0 +1,38 @@
+! special
+*.foreground:   #ebdbb2
+*.background:   #282828
+*.cursorColor:  #fabd2f
+
+! black
+*.BLcolor0:       #1d2021
+*.BLcolor1:       #32302f
+
+! red
+*.Rcolor0:      #cc241d
+*.Rcolor1:      #fb4934
+
+! green
+*.Gcolor0:      #98971a
+*.Gcolor1:      #b8bb26
+
+! yellow
+*.Ycolor0:      #d79921
+*.Ycolor1:      #fabd2f
+
+! blue
+*.Bcolor0:      #458588
+*.Bcolor1:      #83a598
+
+! magenta
+*.Mcolor0:      #b16286
+*.Mcolor1:      #d3869b
+
+! aqua
+*.Acolor0:      #689d6a
+*.Acolor1:      #8ec07c
+
+! white
+*.Wcolor0:      #ebdbb2
+*.Wcolor1:      #fbf1c7
+
+*.font: 		-misc-Agave Nerd Font-*-*-*--0-0-0-0-p-0-*-0
